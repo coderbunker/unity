@@ -11,6 +11,7 @@
 - EcsRx - github.com/grofit/ecsrx
 
 ## Game Design
+- 50 Tips for Working with Unity (Best Practices) - http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/
 - Juice It Or Lose It - https://www.youtube.com/watch?v=Fy0aCDmgnxg
 - Unite Europe Videos - https://www.youtube.com/user/Unity3D
 - GDC Channel - https://www.youtube.com/c/gdconf/videos
